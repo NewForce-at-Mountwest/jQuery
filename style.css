@@ -1,0 +1,17 @@
+
+*{
+  font-family: Helvetica, sans-serif;
+}
+
+.flex-container{
+  display: flex;
+}
+
+.box{
+  width: 20vh;
+  height: 20vw;
+  background-color: cornflowerblue;
+  border-radius: 1rem;
+  padding: 2rem;
+  margin: 1rem;
+}
